@@ -2,3 +2,4 @@
 echo $(($WATER + $STIR))
 export WATER=3
 export STIR=4
+./nom_du_fichier
