@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(( BREATH ** LOVE ))
+# Raise the value of the BREATH environment variable to the power of the value of the LOVE environment variable
+echo $(( $BREATH ** $LOVE ))
