@@ -1,0 +1,4 @@
+#!/bin/bash
+echo $(($WATER + $STIR))
+export WATER=3
+export STIR=4
