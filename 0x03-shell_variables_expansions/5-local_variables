@@ -1,2 +1,3 @@
 #!/bin/bash
+# List local variables, environment variables, and functions
 set
