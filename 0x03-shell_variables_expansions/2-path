@@ -1,2 +1,5 @@
 #!/bin/bash
-PATH=$PATH:/action
+#To add `/action` to the `PATH` environment variable so that it is the last 
+#directory in which the shell looks for a program, one can use 
+#the following command:
+export PATH="$PATH:/action"
