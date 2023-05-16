@@ -1,2 +1,3 @@
 #!/bin/bash
-echo Hello $USER
+# Imprimer hello user, où user est l'utilisateur Linux actuel
+echo "hello $USER"
