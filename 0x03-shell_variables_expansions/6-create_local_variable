@@ -1,2 +1,3 @@
 #!/bin/bash
-local BETTY="Holberton"
+# Create a new local variable
+local BEST="School"
