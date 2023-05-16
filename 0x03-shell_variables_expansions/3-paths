@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $PATH |tr -s ':' '\n' |  wc -l
+# Compter le nombre de répertoires dans la variable PATH
+echo $PATH | tr ':' '\n' | wc -l
